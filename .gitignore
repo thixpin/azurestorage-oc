@@ -1,0 +1,9 @@
+# Common
+composer.lock
+.DS_Store
+.idea
+.ftpconfig
+.vscode/
+
+# Project
+/vendor

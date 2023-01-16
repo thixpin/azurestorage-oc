@@ -1,0 +1,19 @@
+{
+    "name": "soethura/azurestorage-plugin",
+    "type": "october-plugin",
+    "description": "Azure Blob Storage Driver for OctoberCMS V3",
+    "keywords": ["octobercms", "azure", "storage", "driver"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Soe Thura",
+            "email": "thixpin@gmail.com"
+        }
+    ],
+    "require": {
+        "league/flysystem-azure-blob-storage": "^3.0"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.4"
+    }
+}
